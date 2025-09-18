@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/Hoilazer/CI4-Mendoza-Armor-Shop">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newgrounds.com%2Fart%2Fview%2Flillyalbarn%2Fneco-arc-with-the-astolfo-armor&psig=AOvVaw0cSsoD0jPW-iOoCLZBMuzE&ust=1758269242481000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODz4L7t4Y8DFQAAAAAdAAAAABAM" alt="Nyebe" width="130" height="100">
   </a>
 <!-- * Title Section -->
   <h3 align="center">CI4 Armor Shop</h3>
